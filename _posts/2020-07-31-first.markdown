@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  1
+title:  1.깃허브 블로그 만들기!
 date:   2020-07-31
 category: Git
 tags : [practice]
 permalink: '001'
 ---
 
-# 깃허브 블로그 만들기!
+# 1.깃허브 블로그 만들기!
 * * * 
 <br>
 
