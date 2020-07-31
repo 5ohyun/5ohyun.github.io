@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Poor Story', cursive;
-  font-size: 15px;
+  font-size: 20px;
   color: #424142;
   padding-top: 20px;
   background-image: url({{ site.url }}/images/grid.png);
