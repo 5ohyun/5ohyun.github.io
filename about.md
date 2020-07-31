@@ -6,7 +6,10 @@ permalink: /about
 # About
 
 - instagram
-{% include socialmedia.html %}
+
+[5o_ohyun](https://www.instagram.com/5o_ohyun/?hl=ko)
 
 - blog
-{% include socialmedia.html %}
+
+[Naver](https://blog.naver.com/leeso226)
+[Git_blog](https://5ohyun.github.io)
