@@ -4,20 +4,15 @@ title:  1
 date:   2020-07-31
 category: Git
 tags : [practice]
-permalink: /001
+permalink: '/Archive/Git/001'
 ---
 
-# 어떻게 될 지 궁금하죠?
+# 깃허브 블로그 만들기!
 * * * 
 <br>
-<br>
-<br>
+
 **깃허브 블로그 만들기!**
 
-
-
-
-
-~~~python
-print("hello")
-~~~
+    ~~~python
+    print("hello")
+    ~~~
