@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>5ohyun</title>
-    <description>ML/DL/Stat</description>
+    <title>🌊 오현이의 ᗰEᗰOᖇIEᔕ 🌊</title>
+    <description>ML / DL / Stat / Memo</description>
     <link>https://5ohyun.github.io/</link>
     <atom:link href="https://5ohyun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Jul 2020 17:06:40 +0900</pubDate>
-    <lastBuildDate>Thu, 30 Jul 2020 17:06:40 +0900</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2020 13:07:35 +0900</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2020 13:07:35 +0900</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -36,6 +36,21 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>start_practice</title>
+        <description>&lt;p&gt;&lt;strong&gt;Hello world&lt;/strong&gt;, this is my first Jekyll blog post.&lt;/p&gt;
+
+&lt;p&gt;I hope you like it!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Apr 2017 03:42:56 +0900</pubDate>
+        <link>https://5ohyun.github.io/page/2017/04/23/first.html</link>
+        <guid isPermaLink="true">https://5ohyun.github.io/page/2017/04/23/first.html</guid>
+        
+        
+        <category>page</category>
         
       </item>
     

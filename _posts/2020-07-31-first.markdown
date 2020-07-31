@@ -1,0 +1,9 @@
+---
+layout: default
+title:  "start_practice"
+date:   2017-04-23 11:42:56 -0700
+category: page
+---
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!

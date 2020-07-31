@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 5ohyun
-tab_title: 오현이의 🌊ᗰEᗰOᖇIEᔕ 🌊 #This text shows up on the browser tab
+title: 🌊 ᗰEᗰOᖇIEᔕ 🌊
+tab_title: 5ohyun_BLOG  #This text shows up on the browser tab
 email: leeso226@naver.com
-description: ML/DL/Stat
+description: ML / DL / Stat / Memo
 url: "https://5ohyun.github.io" # the base hostname & protocol for your site
 
 # Comic Social Media
