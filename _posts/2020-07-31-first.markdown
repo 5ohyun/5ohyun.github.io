@@ -2,7 +2,7 @@
 layout: default
 title:  "어떻게 될라나"
 date:   2017-04-23 11:42:56 -0700
-category: [Git]
+category: ML
 tags : [practice]
 ---
 **Hello world**, this is my first Jekyll blog post.
