@@ -4,7 +4,7 @@ title:  1
 date:   2020-07-31
 category: Git
 tags : [practice]
-permalink: '/Archive/Git/001'
+permalink: '/Git/001'
 ---
 
 # 깃허브 블로그 만들기!
@@ -13,6 +13,6 @@ permalink: '/Archive/Git/001'
 
 **깃허브 블로그 만들기!**
 
-    ~~~python
-    print("hello")
-    ~~~
+~~~python
+print("hello! 드디어 블로그를 만들었다!!!!")
+~~~
