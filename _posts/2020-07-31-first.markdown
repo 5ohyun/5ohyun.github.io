@@ -7,10 +7,17 @@ tags : [practice]
 permalink: /001
 ---
 
-# 어떻게 될 지 궁금하죠? 
+# 어떻게 될 지 궁금하죠?
+* * * 
+<br>
+<br>
+<br>
+**깃허브 블로그 만들기!**
 
-깃허브 블로그 만들기!
 
-'''python
+
+
+
+~~~python
 print("hello")
-'''
+~~~
