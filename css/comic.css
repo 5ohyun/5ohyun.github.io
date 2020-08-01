@@ -13,7 +13,7 @@ body {
 
 .panel {
   background-color: white;
-  min-height: 600px;
+  min-height: auto;
 }
 
 .panel p {
