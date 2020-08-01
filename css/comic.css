@@ -9,6 +9,7 @@ body {
   padding-top: 20px;
   background-image: url({{ site.url }}/images/grid.png);
   background-color: gray;
+  text-align: center;
 }
 
 .panel {
@@ -25,7 +26,9 @@ body {
   font-size: 30px;
   font-weight: regular;
   font-family: 'Jua', sans-serif;
-  padding: 0px 25px 0px 25px;
+  padding: 25px 25px 25px 25px;
+  margin: auto;
+  text-align: center;
 }
 
 .panel h2 {
@@ -43,10 +46,10 @@ body {
 }
 
 .panel img {
-  height: 80%;
-  width: 80%;
-  text-align: center;
-}
+  height: 50%;
+  width: 50%;
+  display: block;
+  margin: 0px auto;}
 
 .center {
   margin: auto;
