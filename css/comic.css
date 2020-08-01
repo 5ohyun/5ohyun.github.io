@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Poor Story', cursive;
-  font-size: 110%;
+  font-size: 150%;
   color: #424142;
   padding-top: 20px;
   background-image: url({{ site.url }}/images/grid.png);
@@ -23,8 +23,8 @@ body {
 }
 
 .panel h1 {
-  font-size: 130%;
-  font-weight: regular;
+  font-size: 200%;
+  font-weight: bold;
   font-family: 'Jua', sans-serif;
   padding: 0px 25px 0px 25px;
   margin: auto;
@@ -136,10 +136,12 @@ body {
   display: inline-block;
   float: none;
   vertical-align: top;
-  font-size: 130%;
+  font-size: 160%;
   font-weight: bold;
+  display: flex;
+  justify-content: center;
 }
-}
+
 
 .navbar .navbar-collapse {
   text-align: center;
