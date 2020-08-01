@@ -100,7 +100,7 @@ body {
 
 .archive-li {
     /* float: left; */
-    display: block;
+    display: inline;
 }
 
 .archive-ul {
