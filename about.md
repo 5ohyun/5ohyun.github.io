@@ -3,15 +3,15 @@ layout: default
 title: About
 permalink: /about
 ---
-# About
+# ABOUT
 * * *
 
 
-<h2> instagram </h2>
+<h2> INSTAGRAM </h2>
 
 [5o_ohyun](https://www.instagram.com/5o_ohyun/?hl=ko)
 
-<h2> blog </h2>
+<h2> BLOG </h2>
 
 [Naver](https://blog.naver.com/leeso226)
   
