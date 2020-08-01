@@ -26,7 +26,7 @@ body {
   font-size: 30px;
   font-weight: regular;
   font-family: 'Jua', sans-serif;
-  padding: 0px 25px 25px 25px;
+  padding: 0px 25px 0px 25px;
   margin: auto;
   text-align: center;
 }
@@ -36,6 +36,8 @@ body {
   font-weight: bold;
   font-family: 'Jua', sans-serif;
   padding: 0px 25px 0px 25px;
+  margin-top: 0px;
+  margin-bottom: 10px;
 }
 
 .panel h3 {
