@@ -23,7 +23,7 @@ body {
 }
 
 .panel h1 {
-  font-size: 30px;
+  font-size: 130%;
   font-weight: regular;
   font-family: 'Jua', sans-serif;
   padding: 0px 25px 0px 25px;
@@ -32,7 +32,7 @@ body {
 }
 
 .panel h2 {
-  font-size: 80%;
+  font-size: 100%;
   font-weight: normal;
   font-family: 'Jua', sans-serif;
   padding: 0px 25px 0px 25px;
