@@ -5,11 +5,11 @@ permalink: /about
 ---
 # About
 
-<h5> instagram </h5>
+<h2> instagram </h2>
 
 [5o_ohyun](https://www.instagram.com/5o_ohyun/?hl=ko)
 
-<h5> blog </h5>
+<h2> blog </h2>
 
 [Naver](https://blog.naver.com/leeso226)
   
