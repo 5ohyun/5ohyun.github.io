@@ -32,8 +32,8 @@ body {
 }
 
 .panel h2 {
-  font-size: 20px;
-  font-weight: bold;
+  font-size: 80%;
+  font-weight: normal;
   font-family: 'Jua', sans-serif;
   padding: 0px 25px 0px 25px;
   margin-top: 0px;
@@ -48,8 +48,8 @@ body {
 }
 
 .panel img {
-  height: 50%;
-  width: 50%;
+  height: 80%;
+  width: 80%;
   display: block;
   margin: 0px auto;}
 
