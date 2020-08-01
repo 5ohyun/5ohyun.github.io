@@ -16,7 +16,6 @@ permalink: /archive
 </ul>
 
 # Git
-
 <ul class="post-list archive-ul">
   {% for post in site.categories.Git %}
     <li class="archive-li">
