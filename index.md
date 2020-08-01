@@ -7,8 +7,8 @@ permalink: /index.html
   
     
       
-<img src="./images/kill.jpg" width="300" height="200"> 
+<img src="./images/kill.jpg" width="100" height="100"> 
 
 
-  
-※쒸익 물어버린다※
+ ~~쒸익쒸익~~
+ 
