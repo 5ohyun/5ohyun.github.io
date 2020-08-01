@@ -8,6 +8,6 @@ permalink: /index.html
     
       
 <img src="./images/kill.jpg" > 
-
-
-
+  
+    
+      
