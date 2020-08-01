@@ -14,6 +14,7 @@ body {
 .panel {
   background-color: white;
   min-height: auto;
+  padding: 10%;
 }
 
 .panel p {
@@ -25,7 +26,7 @@ body {
   font-size: 30px;
   font-weight: regular;
   font-family: 'Jua', sans-serif;
-  padding: 25px 25px 0px 25px;
+  padding: 0px 25px 25px 25px;
   margin: auto;
   text-align: center;
 }
