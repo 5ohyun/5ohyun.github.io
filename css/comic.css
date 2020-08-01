@@ -9,7 +9,6 @@ body {
   padding-top: 20px;
   background-image: url({{ site.url }}/images/grid.png);
   background-color: gray;
-  text-align: center;
 }
 
 .panel {
