@@ -4,14 +4,13 @@ title: About
 permalink: /about
 ---
 # About
-<br>
 
-- instagram
+<h5> instagram </h5>
 
-    [5o_ohyun](https://www.instagram.com/5o_ohyun/?hl=ko)
+[5o_ohyun](https://www.instagram.com/5o_ohyun/?hl=ko)
 
-- blog
+<h5> blog </h5>
 
-    [Naver](https://blog.naver.com/leeso226)
-    <br>
-    [Git_blog](https://5ohyun.github.io)
+[Naver](https://blog.naver.com/leeso226)
+  
+[Git_blog](https://5ohyun.github.io)
