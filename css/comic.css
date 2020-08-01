@@ -137,6 +137,11 @@ body {
   text-align: center;
 }
 
+.dropdown-menu{
+  left: 80%;
+  min-width: auto;
+  text-align: center;
+}
 
 /* COMIC PANEL STYLES */
 /*=============================*/
