@@ -2,12 +2,20 @@
 <nav class="navbar navbar-default navbar-static-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" >
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
+            <div class="dropdown">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="dropdown" >
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div class="dropdown-menu">
+                    <a href={{ site.url }}/001 >5OHYUN</a>
+                    <a href={{ site.url }}/about>ABOUT</a>
+                    <a href={{ site.url }}/extras>EXTRAS</a>
+                    <a href={{ site.url }}/archive>ARCHIVE</a>
+                </div>
+            </div>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
