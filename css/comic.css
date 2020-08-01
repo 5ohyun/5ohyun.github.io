@@ -109,6 +109,7 @@ body {
 .archive-ul {
   margin: 0px;
   list-style: none;
+  padding: unset;
 }
 
 
