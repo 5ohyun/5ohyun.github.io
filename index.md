@@ -7,9 +7,8 @@ permalink: /index.html
   
     
       
-
-![cute_kill](./images/kill.jpg)
+<img src="./images/kill.jpg" width="300" height="200"> 
 
 
   
-~~쒸익 다 물어버린다~~
+※쒸익 물어버린다※
